@@ -1,0 +1,12 @@
+{
+	"plugins": ["transform-async-to-generator",
+              "transform-es2015-destructuring",
+              "transform-es2015-duplicate-keys",
+              "transform-es2015-for-of",
+              "transform-es2015-typeof-symbol",
+              "transform-es2015-modules-commonjs",
+              "transform-exponentiation-operator",
+              "transform-export-extensions",
+              "transform-object-rest-spread",
+              "transform-strict-mode"]
+}
