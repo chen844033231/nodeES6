@@ -1,2 +1,2 @@
-require('./server.babel.js')
+require('./processes.js')
 require('./server/server.js')
